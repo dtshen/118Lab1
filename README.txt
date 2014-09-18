@@ -1,4 +1,4 @@
-Dennis Shen 004002509
+Please don't copy our code
 Now works with
 Basic Object Fatching 100%
 Persistent Connection 100%
